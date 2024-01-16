@@ -23,89 +23,97 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "Java", "Javascript", "HTML" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub", "Microsoft Windows" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-09-01",
       "endDate": "Present",
-      "courses": [
+      "courses":["111 Intro to Computer Science I","141 Discrete Math for CS I","211 Intro to Computer Science II","241 Discrete Mathematics II",
+      "311 Algorithims (in progress)","314 Software Engineering I (in progress)","321 Database Systems I (in progress)","355 Security and Trust I (in progress)",
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH Manoa Admissions Office",
+      "position": "Welcome Center Assistant",
+      "website": "https://manoa.hawaii.edu/admissions/visit/",
+      "startDate": "2024-01-11",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Assisting students with enrollment needs and processing necessary documents",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Answer incoming calls and advise students on correct course of action"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "United State Marine Corps",
+      "position": "Heavy Equipment Operator",
+      "website": "https://www.trngcmd.marines.mil/Units/Southwest/Marine-Corps-Detachment-Fort-Leonard-Wood/EEIC/",
+      "startDate": "2016-10-24",
+      "endDate": "2022-06-01",
+      "summary": "Poviding heavy equipment support and maintiaing readiness standards",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Led over 20 construction sites including combined Marine Corps, Air Force, and Navy efforts; awarded the
+Certificate of Commendation by senior leaders for superior performance",
+        " Scheduled all dig pit operations; ensured team leader coverage of safety measure to maintain no accident or
+mishaps during operations",
+        "Assistant Trainging Non-commisioned Officer, 2017-2019",
+        "Training Non-commisioned Officer (Rota,Spain) 2020",
+        "Licensing Non-commisioned Officer 2020-2021",
+        "Assistant Operations Chief, 2021-2022",
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+      "organization": "Adopt-a-Highway",
+      "website": "https://www.ncdot.gov/initiatives-policies/environmental/adoptahighway/Pages/default.aspx",
+      "position": "Volunteer Worker",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Reduced litter and also saved taxpayers dollars annually in roadside cleanup costs."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
+      "organization": "Possumwood Acres",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Maintenance",
+      "startDate": "2021",
+      "endDate": "https://www.possumwoodacres.org/",
+      "summary": "Assisted in the building of rescue animal habitats and helping to maintain the property"
+      ]
+    },
+    {
+      "organization": "National Naval Aviation Museum",
+      "website": "https://navalaviationmuseum.org/",
+      "position": "Security",
+      "startDate": "2017",
       "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      "summary": "Provide facilities with security, bag checking, and assisting guest"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Certificat of Commendation",
+      "date": "2020",
+      "awarder": "Lieutenant Colonel K.K. Rossman, U.S. Marine Corps Commanding ",
+      "summary": "For exceptional performance of duties while serving as an engineer equipment operator at Marine Wing Support Squadron 274."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Certificate of Commendation",
+      "date": "2019",
+      "awarder": "Lieutenant Colonel S.R. Walsh, U.S. Marine Corps Commanding",
+      "summary": "Professional Achievement while serving as a heavy equipment operator, Marine Wing Support Squadron 274, Marine Wing Support Group 27, 2D Marine Aircraft Wing, during weapons and tactics instruction course 2-19."
     }
   ],
   "references": [
