@@ -23,21 +23,6 @@ Through this experience, I gained valuable insights into Java development and so
 
 
 ```cpp
-byte ADCRead(byte ch)
-{
-import java.lang.StackWalker.Option;
-import java.util.Scanner;
-public class BankingApplication {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		BankAccount obj1= new BankAccount("Sam","S100067");
-		obj1.showMenu();
-
-	}
-
-}
-
 class BankAccount{
 	
 	int balance;
@@ -139,6 +124,5 @@ class BankAccount{
 	}
 }
 
-}
 ```
 
