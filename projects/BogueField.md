@@ -14,7 +14,7 @@ summary: "My team constructed landing pads at Marine Corps Auxiliary Landing Fie
 <div class="text-center p-4">
   <img width="300px" src="../img/Hydroseeder.png" class="img-thumbnail" >
   <img width="300px" src="../img/Tram.png" class="img-thumbnail" >
-  <img width="300px" src="../img/Scraper.png" class="img-thumbnail" >
+  <img width="300px" src="../img/Scaper.png" class="img-thumbnail" >
 </div>
 
 Under the blazing sun, our mission unfolded—transform a rough dirt lot into a precision training ground for UH-1Y pilots. The primary objectives included leveling the terrain near a runway and constructing four landing pads at varying degrees. Success hinged on careful planning and execution, involving the coordination of dirt deliveries and the strategic placement of fuel supplies. As the leader of a dedicated team of 10 Marines, my role was crucial in maintaining accountability and ensuring the consistent heavy equipment operations to construct the landing pads using technology like the Trimble laser system.
