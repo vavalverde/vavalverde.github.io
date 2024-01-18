@@ -9,7 +9,7 @@ labels:
   - JavaScript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../Euler.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/Euler.png">
 
 In the field of programming languages, JavaScript stands out with a unique flair that I find both intriguing and refreshing. What captivates me is JavaScript's "just-in-time" style, which differs from Python and Java's more structured syntax. While Python and Java are similar to meticulously planned architectures, JavaScript feels more like an improvisational dance allowing for greater flexibility and creativity in code. It's a language that fosters experimentation as opposed to the more strict structures I've previously encountered.
 
