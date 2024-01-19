@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Snake.png
+image: img/Snake.png 
 title: "Snakes Like Apples"
 date: 2020
 published: true
