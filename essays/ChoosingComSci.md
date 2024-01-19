@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "A Logical Journey from Military Service to Computer Science"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-17
+date: 2024-01-18
 published: true
 labels:
   - JavaScript
