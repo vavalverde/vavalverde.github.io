@@ -9,7 +9,7 @@ labels:
   - JavaScript
 ---
 <div class="text-center p-4">
-  <img width="300px" src="../img/Euler.png" class="img-thumbnail" >
+  <img width="300px" src="../img/Mil.png" class="img-thumbnail" >
 </div>
 
 
