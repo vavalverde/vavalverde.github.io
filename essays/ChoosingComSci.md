@@ -13,7 +13,7 @@ labels:
 </div>
 
 
-# Choosing Computer Science
+## Choosing Computer Science
 
 Leaving the military, where I spent eight or more hours a day in weather conditions always being too hot or too cold, prompted a decisive shift in my career preferences. The desire for an indoor job led me to explore various options, and the logical world of computer science emerged as the ideal fit. Luckily for me it is not ideal to program in the blazing sun. The structured and evolving nature of computer science aligned seamlessly with my interest in rationality and the stability of the careers projected growth.
 
