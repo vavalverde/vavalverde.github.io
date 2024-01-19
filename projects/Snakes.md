@@ -9,7 +9,7 @@ labels:
   - Java
   - Eclipse
 summary: "I made a simple fun game to play to explore the capabilities of Java."
----
+---. 
 
 <div class="text-center p-4">
   <img width="300px" src="../img/End.png" class="img-thumbnail" >
