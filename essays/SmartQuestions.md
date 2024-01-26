@@ -49,6 +49,8 @@ Clarity and Detail: The answer is presented in a clear and detailed step-by-step
 
 Command Explanation: Each Git command used in the solution is explained, helping the asker understand the purpose of each step. This adds value by educating the asker about the Git commands being employed.
 
+Here is a link to [StackOverflow](https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git)
+
 ## Not Smart Questions
 Not Smart Question:
 
@@ -62,3 +64,4 @@ They state it is their homework in the question
 
 Result:
 The not smart question leads to many down votes and a reluctantcy to answer the question.
+Here is a link to [StackOverflow](https://stackoverflow.com/questions/38041776/when-does-strcmpa-b-evaluate-as-true)
