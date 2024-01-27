@@ -14,23 +14,19 @@ labels:
 </div>
 
 ## Who Am I to Judge?
-In the course of my many professions as a welcome assistant, Starbucks employee, and military personnel I have developed a nuanced perspective that challenges the conventional wisdom encapsulated in the phrase, "there is no such thing as a stupid question." My stance revolves around the recognition that unwise questions are not uncommon often originating from a reluctance to proactively engage in the essential groundwork required to arrive at a solution.
+In the course of my many professions as a welcome assistant, Starbucks employee, and military personnel I have developed a nuanced perspective that challenges the conventional wisdom encapsulated in the phrase, "there is no such thing as a stupid question." My stance revolves around the recognition that unwise questions are not uncommon often originating from a reluctance to proactively engage in the essential groundwork required to arrive at a solution. I have observed that a considerable number of inquiries could be effectively addressed through the judicious use of resources such as a straightforward Google search or a thoughtfully crafted query in a related context. The latter approach involves exploring solutions tangential to the immediate question, thereby fostering a more comprehensive understanding.
 
-I have observed that a considerable number of inquiries could be effectively addressed through the judicious use of resources such as a straightforward Google search or a thoughtfully crafted query in a related context. The latter approach involves exploring solutions tangential to the immediate question, thereby fostering a more comprehensive understanding.
-
-To illustrate this point, while resolving a basic arithmetic problem like 2+2  if a direct solution cannot be found it is reasonable to expect individuals to explore tutorials on addition and its practical applications. It is imperative to acknowledge that not all answers are readily accessible; some demand a proactive investment of effort from the inquirer.
-
-By advocating for preliminary research before seeking external assistance we contribute to a more streamlined exchange of information and instill a mindset of self-reliance in the pursuit of effective problem-solving.
+To illustrate this point, while resolving a basic arithmetic problem like 2+2  if a direct solution cannot be found it is reasonable to expect individuals to explore tutorials on addition and its practical applications. It is imperative to acknowledge that not all answers are readily accessible; some demand a proactive investment of effort from the inquirer. By advocating for preliminary research before seeking external assistance we contribute to a more streamlined exchange of information and instill a mindset of self-reliance in the pursuit of effective problem-solving.
 
 The characteristics of smart questions, as indicated in "How to ask questions the smart way" by Eric Raymond, include:
 
-Clarity and Specificity: Smart questions are clear and specific, providing sufficient context and information for others to understand and assist.
+1-Clarity and Specificity: Smart questions are clear and specific, providing sufficient context and information for others to understand and assist.
 
-Demonstration of Effort: Askers are encouraged to show that they have made an effort to find answers independently. This involves searching archives, reading documentation, and experimenting before seeking help.
+2-Demonstration of Effort: Askers are encouraged to show that they have made an effort to find answers independently. This involves searching archives, reading documentation, and experimenting before seeking help.
 
-Engagement and Willingness to Learn: Smart questions reflect an attitude of engagement, thoughtfulness, and a willingness to actively participate in problem-solving.
+3-Engagement and Willingness to Learn: Smart questions reflect an attitude of engagement, thoughtfulness, and a willingness to actively participate in problem-solving.
 
-Respect for the Community: Askers are advised to respect the norms and expectations of the community, choosing appropriate forums and demonstrating an understanding of the culture.
+4-Respect for the Community: Askers are advised to respect the norms and expectations of the community, choosing appropriate forums and demonstrating an understanding of the culture.
 
 ## Smart Questions
 Example Smart Question:
