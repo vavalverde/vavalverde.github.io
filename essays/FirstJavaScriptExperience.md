@@ -25,3 +25,7 @@ Personally, I love JavaScript's informal approach, but I understand my professor
 Transitioning to athletic software engineering, the in-class workouts or WODs, proved initially nerve-racking. However, the fear turned into a fantastic learning opportunity. These exercises not only train us for real-world teamwork, but also improve our problem-solving abilities. Witnessing different approaches from my group during practice WODs highlighted the importance of collaboration. It was amazing to see the variety of solutions created by each team member and it really put into perspective the opportunity we would've missed t learning had we not been sorted into random groups.
 
 WODs produce tension, which converts into a sense of success as challenges are overcome. It's a fun and challenging learning technique that reflects the changing nature of the tech industry and also to make sure we study. While saying goodbye to my previous group is difficult, the thought of working with new peers excites me.
+
+
+
+
