@@ -11,7 +11,7 @@ labels:
   - GitHub
 ---
 <div class="text-center p-4">
-  <img width="300px" src="../img/mac.png" class="img-thumbnail" >
+  <img width="300px" src="../img/mac.jpeg" class="img-thumbnail" >
 </div>
 
 
