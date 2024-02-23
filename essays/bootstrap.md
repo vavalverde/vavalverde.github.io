@@ -12,7 +12,7 @@ labels:
   - CSS
 ---
 <div class="text-center p-4">
-  <img width="300px" src="../img/blueprint.jpeg" class="img-thumbnail" >
+  <img width="300px" src="../img/blueprint.png" class="img-thumbnail" >
 </div>
 
 ## Starting From Scratch v.s. Having A Plan
