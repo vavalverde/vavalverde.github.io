@@ -37,8 +37,11 @@ Two key functionalities are the heart of the app: a search page for lost items, 
 
 
 ## Case Ideas
--A person who has found an item or lost an item will go through the landing page then sign in with their uh username. 
--They will then describe or take a picture of the place where they found the item as well as their email address. 
+1) A person who has found an item or lost an item will go through the landing page then sign in with their uh username. 
+2) They will then describe or take a picture of the place where they found the item as well as their email address. 
 
 ## Beyond the Basics
+Other users can give upvotes for the users good deed. 
+The option to update the status of the lost and found item.
+
 
