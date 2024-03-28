@@ -11,7 +11,7 @@ labels:
 ## Save the Day: A Lost and Found Application
 Team Members: Ken Seekins, Shayde Tamura, Roma Amor Malasarte, Yirui Wang, Victoria Valverde,
 
-#Overview
-#Page Ideas
-#Case Ideas
-#Beyond the Basics
+# Overview
+# Page Ideas
+# Case Ideas
+# Beyond the Basics
