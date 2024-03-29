@@ -37,8 +37,10 @@ Two key functionalities are the heart of the app: a search page for lost items, 
 
 
 ### Case Ideas
-1. A person who has found an item or lost an item will go through the landing page then sign in with their uh username. 
+1. A person who has found an item or lost an item will go through the landing page then sign in with their uh username.
+  
 2. They will then describe or take a picture of the place where they found the item as well as their email address.
+   
 3. Time Stamp: Automatically timestamp each lost or found item entry to provide users with an indication of when the item was reported or discovered.
 
 ### Beyond the Basics
@@ -46,11 +48,17 @@ Two key functionalities are the heart of the app: a search page for lost items, 
 Possible ideas that could be implemented to make our app special in comparison to others.
 
 1. Item Status Updates: Enable users to update the status of their lost or found items (e.g., "Item claimed," "Item returned"). This keeps listings up-to-date and provides closure to users involved in the retrieval process.
+
 2. User Ratings: Implement a simple user rating system where users can rate their experience with other users based on the successful retrieval of lost items. This encourages positive interactions within the community.
+
+  
 3. Quick Search Filters: Offer quick search filters (e.g., by item type, location, date) to help users narrow down their search results and find relevant listings more efficiently.
+
+   
 4. Community Engagement Features:
 Implement a comment section where users can communicate about specific lost or found items. Enable users to share lost/found item listings on social media platforms to increase visibility and reach.
-5)Reward System: Create a reward system where users who successfully return lost items receive points or credits redeemable for campus-related perks (e.g., discounts at campus stores, priority registration for events).
+
+5.Reward System: Create a reward system where users who successfully return lost items receive points or credits redeemable for campus-related perks (e.g., discounts at campus stores, priority registration for events).
 
 
 
