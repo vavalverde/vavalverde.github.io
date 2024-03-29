@@ -11,7 +11,6 @@ labels:
 <div class="text-center p-4">
   <img width="300px" src="../img/box.png" class="img-thumbnail" >
   <img width="300px" src="../img/phone.png" class="img-thumbnail" >
-  <img width="300px" src="../img/student.jpeg" class="img-thumbnail" >
 
 </div>
 
