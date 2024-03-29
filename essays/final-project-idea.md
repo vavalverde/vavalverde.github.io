@@ -7,7 +7,6 @@ publish: true
 labels:
   - Software Engineering
   - Meteor
-background: blue
 ---
 ## Save the Day: A Lost and Found Application
 Team Members: Ken Seekins, Shayde Tamura, Roma Amor Malasarte, Yirui Wang, Victoria Valverde
