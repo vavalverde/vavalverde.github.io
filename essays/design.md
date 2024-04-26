@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "A Logical Journey from Military Service to Computer Science"
+title: "A Culinary Guide to Software Development"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-25
 published: true
@@ -13,9 +13,6 @@ labels:
 <div class="text-center p-4">
   <img width="300px" src="../img/cook.png" class="img-thumbnail" >
 </div>
-
-
-## A Culinary Guide to Software Development
 
 In the world of software development design patterns are like recipes in a chef's cookbook. They provide proven solutions to common problems encountered during the development process. Just as a chef relies on various techniques and ingredients to craft delicious dishes, a software engineer utilizes different design patterns to build efficient and elegant code.
 
