@@ -3,28 +3,30 @@ layout: essay
 type: essay
 title: "A Logical Journey from Military Service to Computer Science"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-18
+date: 2024-04-25
 published: true
 labels:
   - JavaScript
+  - HTML
+  - Design Patterns
 ---
 <div class="text-center p-4">
-  <img width="300px" src="../img/Mil.png" class="img-thumbnail" >
+  <img width="300px" src="../img/cook.png" class="img-thumbnail" >
 </div>
 
 
-## Choosing Computer Science
+## A Culinary Guide to Software Development
 
-Leaving the military, where I spent eight or more hours a day in weather conditions always being too hot or too cold, prompted a decisive shift in my career preferences. The desire for an indoor job led me to explore various options, and the logical world of computer science emerged as the ideal fit. Luckily for me it is not ideal to program in the blazing sun. The structured and evolving nature of computer science aligned seamlessly with my interest in rationality and the stability of the careers projected growth.
+In the world of software development design patterns are like recipes in a chef's cookbook. They provide proven solutions to common problems encountered during the development process. Just as a chef relies on various techniques and ingredients to craft delicious dishes, a software engineer utilizes different design patterns to build efficient and elegant code.
 
-## The Future is Cybersecurity and AI
+## Understanding the Recipe
 
-As I progressed through recent semesters, my focus within computer science expanded, leading me to develop a keen interest in the fields of cybersecurity and artificial intelligence. I see these domains as the driving forces behind the future of software development. The ever-evolving landscape of cybersecurity, with its emphasis on protecting digital systems, and the transformative potential of AI in enhancing software capabilities is an avenue I am only beginning to explore. These areas represent the biggest opportunities for innovation as we as a society are so heavily reliant on technology, where it is beneficial or detrimental is up for debate.
+Imagine you're a chef preparing a complex dish. You encounter challenges like managing ingredients, coordinating cooking times, and ensuring the dish's presentation is appealing. Similarly, in software development, programmers face challenges such as managing code, ensuring flexibility, and maintaining scalability. Design patterns serve as the recipes that guide developers through these challenges, offering solutions that have been refined over time by more experienced developers. Just as there are different types of cuisine—Italian, Chinese, French—there are different categories of design patterns, each serving a specific purpose. Creating patterns are like the techniques for preparing the base ingredients of a dish, ensuring that objects are created in a flexible manner. 
 
-## Work vs Internships
+## Cooking Up A Solution
 
-Looking ahead, my trajectory involves a strategic approach to improve skill sets, engage in meaningful projects, and navigate the software engineering competitive job market. Acquiring project experience, however, remains a significant hurdle due to the constant demands of work. Despite these challenges, I am committed to exploring practical applications of my knowledge and I have started working on simple games using Java and Eclipse during my limited free time. This proactive approach is driven by my belief that coding under a bit of pressure is an optimal way to enhance one's problem-solving abilities.
+In my experience using Github to develop a Manoa Fit Connect website each developer's branch in the group can be seen as an observer, monitoring changes made by other team members. When a team member commits changes to their branch and pushes them to the remote repository, other team members are notified of these updates. This setup reflects the dynamic communication between objects in the Observer pattern, where changes made by one component trigger updates in others.
 
-## At the End of the Road
+## Mastering the Culinary Art of Software Design
 
-My end game extends beyond individual skill development. The aspiration to work for the government or potentially return to the military reflects a desire to contribute my expertise to impactful projects. This end goal serves as the driving force motivating me to navigate the challenges of software engineering with resilience and purpose. 
+Design patterns are the essential ingredients that make up the recipe for successful software development. By understanding and applying these patterns, we can better create code that is not only functional but also elegant and maintainable. Just as a chef's mastery of culinary techniques leads to delicious meals, a developer's proficiency in design patterns leads to efficient and robust software systems. So, whether you're cooking up a new application or whipping up a savory dish, remember the importance of design patterns—they're the secret sauce that makes everything come together.
