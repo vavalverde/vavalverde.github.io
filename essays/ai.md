@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI is Basically a Programmers Google"
+title: "AI is a Programmers Google"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-25
 published: true
@@ -15,6 +15,7 @@ labels:
 </div>
 
 ### I. Introduction
+
 The progress of AI technologies can be called many things. Some may say it has opened the door to making once nuance tasks into easy to-dos. Others may say it has ruined the education system creating a generation of individuals focused on getting the work done rather than learning from the experience.
 
 For software engineering students ChatGPT has opened a funny can of worms. For years other majors had Google to solve their problems. For programmers it has been alot more difficult to find answers on a confusing string of code. But ChatGPT has in a sense leveled the playing field for access to answers, whether they be wrong or right.
@@ -22,6 +23,7 @@ For software engineering students ChatGPT has opened a funny can of worms. For y
 In my personal experience with ChatGPT it has been a helpful tool to find errors or try to understand the signifigance of a line of code. I do think it is important that users use the program with discretion as it is not always accurate.
 
 ### II. Personal Experience with AI:
+
 I have used AI in class this semester in the following areas:
 
   1. Experience WODs e.g. E18:
@@ -34,7 +36,7 @@ I have used AI in class this semester in the following areas:
 
   3. In-Class WODs:
      
-     I'd like to bring the reader back to the worst day of ICS 314. The day I DNF'd. Better known as not completing a WOD. Going into the class I was not confident with React. I tried relentlessly to fing my error even attempting to use good old ChatGPT but I kept getting stuck with the notorious white screen! I left that class slightly defeated. I did make an attempt afterward to redo the WOD again however I was still unable to find the solution. Perhaps my eyes became accustomed to seeing the wrong code as correct and no matter how hard I searched for Waldo he just could not be found.
+     I'd like to bring the reader back to the worst day of ICS 314. The day I DNF'd on UI Design (React). Better known as not completing a WOD. Going into the class I was not confident with React. I tried relentlessly to fing my error even attempting to use good old ChatGPT but I kept getting stuck with the notorious white screen! I left that class slightly defeated. I did make an attempt afterward to redo the WOD again however I was still unable to find the solution. Perhaps my eyes became accustomed to seeing the wrong code as correct and no matter how hard I searched for Waldo he just could not be found.
 
   4. Essays:
      
