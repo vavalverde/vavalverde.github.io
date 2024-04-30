@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "AI is a Programmers Google"
 # All dates must be YYYY-MM-DD format!
-date: 2024-04-25
+date: 2024-04-30
 published: true
 labels:
   - JavaScript
