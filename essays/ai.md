@@ -44,7 +44,7 @@ I have used AI in class this semester in the following areas:
 
   5. Final Project:
      
-     In my experience with the final project I have only used AI to help generate equipment and workout descriptions as I am not to familiar with workout related things. I feel that trying to use AI would result in poor quality pages or ones that dont function as smoothly. I think it is better to create and understand your app or even reuse ideas from other peoples project but to do so you have to have agood idea on how the all the pages and components work together.
+     In my experience with the final project I have only used AI to help generate equipment and workout descriptions as I am not to familiar with workout related things. I feel that trying to use AI would result in poor quality pages or ones that dont function as smoothly. I think it is better to create and understand your app or even reuse ideas from other peoples project but to do so you have to have a good idea on how the all the pages and components work together.
 
   6. Learning a Concept / Tutorial:
       
@@ -52,11 +52,11 @@ I have used AI in class this semester in the following areas:
 
   7. Answering a question in Class or in Discord:
       
-      I have never answered a question in either. I am too nervous to give someone inaccurate information in a such a large group message. If i was more confident I knew the answer then I would most definitley help. I feel like attempting to answer such complex questions with AI might take longer than someone just reading the error message they are recieving.
+      I have never answered a question in either. I am too nervous to give someone inaccurate information in a such a large group message. If I was more confident I knew the answer then I would most definitley help. I feel like attempting to answer such complex questions with AI might take longer than someone just reading the error message they are recieving.
 
   8. Asking or Answering a Smart-Question:
       
-      I prefer to struggle over a problem until I find a solution rather than ask a smart-question in a group message. I do acknowledge there is a little but of unnecessary suffering that goes along with tha.
+      I prefer to struggle over a problem until I find a solution rather than ask a smart-question in a group message. I do acknowledge there is a little but of unnecessary suffering that goes along with that.
 
   9. Coding Example e.g. “give an example of using Underscore .pluck”:
       
@@ -64,7 +64,7 @@ I have used AI in class this semester in the following areas:
 
   10. Explaining Code:
       
-      Yes, sometimes you write something nd then your forget why it was there or what it was even doing so I might try to get an idea of its purpose with ChatGPT. Usually I will ask it to add comments to a section of code to make things clearer.
+      Yes, sometimes you write something and then your forget why it was there or what it was even doing so I might try to get an idea of its purpose with ChatGPT. Usually I will ask it to add comments to a section of code to make things clearer.
 
   11. Writing Code:
       
@@ -105,7 +105,7 @@ Idea generation: It can assist in brainstorming for project ideas, writing essay
 
 Quality assurance: While not a primary tool, ChatGPT can supplement code review processes by providing alternative perspectives and identifying potential issues.
 
-By leveraging AI in these ways students can streamline their workflow.
+By leveraging AI in these ways students can streamline their workflow as I have done with documentation.
 
 ### V. Challenges and Opportunities:
 
