@@ -11,7 +11,7 @@ labels:
   - AI
 ---
 <div class="text-center p-4">
-  <img width="300px" src="../img/cook.png" class="img-thumbnail" >
+  <img width="300px" src="../img/ai.png" class="img-thumbnail" >
 </div>
 
 ### I. Introduction
