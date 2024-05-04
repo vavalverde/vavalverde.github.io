@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI is a Programmers Google"
+title: "AI is Here to Stay so Make It Useful"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-30
 published: true
