@@ -45,7 +45,7 @@
       ]
     },
     {
-      "institution": "Cerritos College, Whittier, California",
+      "institution": "Cerritos College, Whittier, CA",
       "area": "Computer Science",
       "studyType": "Coursework",
       "startDate": "2022-01-01",
@@ -53,7 +53,7 @@
       "courses": []
     },
     {
-      "institution": "Coastal Carolina Community College",
+      "institution": "Coastal Carolina Community College, Jacksonville, NC",
       "area": "Computer Science",
       "studyType": "Coursework",
       "startDate": "2021-01-01",
@@ -121,8 +121,8 @@
     {
       "company": "Ulta Beauty",
       "position": "Cashier and Beauty Specialist",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2021",
+      "endDate": "2022",
       "summary": "Worked as a cashier and beauty specialist.",
       "highlights": [
         "Assisted customers with product selection and provided beauty advice and recommendations",
