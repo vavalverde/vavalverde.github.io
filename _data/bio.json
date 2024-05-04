@@ -2,9 +2,9 @@
   "basics": {
     "name": "Victoria Valverde",
     "label": "Student",
-    "picture": "https://github.com/vavalverde.png",
+    "picture": "/images/vavalverde.png",
     "email": "vavalver@hawaii.edu",
-    "phone": "",
+    "phone": ""
     "website": "https://vavalver.github.io",
     "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii at Manoa. I expect to graduate in Fall, 2024. After college I intend to pursue a career in cybersecurity.",
     "location": { "address": "", "postalCode": "96815", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
