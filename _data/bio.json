@@ -30,18 +30,39 @@
       "keywords": [ "MacOS", "Git/GitHub", "Microsoft Windows" ]
     }
   ],
-  "education": [
+  ```json
+"education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
+      "area": "Computer Science (expected Fall, 2025)",
       "studyType": "B.S.",
       "startDate": "2022-09-01",
       "endDate": "Present",
-      "courses":["111 Intro to Computer Science I","141 Discrete Math for CS I","211 Intro to Computer Science II","241 Discrete Mathematics II",
-      "311 Algorithims (in progress)","314 Software Engineering I (in progress)","321 Database Systems I (in progress)","355 Security and Trust I (in progress)",
+      "courses": [
+        "311 Algorithms (in progress)",
+        "314 Software Engineering I (in progress)",
+        "321 Database Systems I (in progress)",
+        "355 Security and Trust I (in progress)"
       ]
+    },
+    {
+      "institution": "Cerritos College, Whittier, California",
+      "area": "Computer Science",
+      "studyType": "Coursework",
+      "startDate": "2022-01-01",
+      "endDate": "2022-08-31",
+      "courses": []
+    },
+    {
+      "institution": "Coastal Carolina Community College",
+      "area": "Computer Science",
+      "studyType": "Coursework",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31",
+      "courses": []
     }
-  ],
+  ]
+```
   "work": [
     {
       "company": "UH Manoa Admissions Office",
@@ -49,9 +70,65 @@
       "website": "https://manoa.hawaii.edu/admissions/visit/",
       "startDate": "2024-01-11",
       "endDate": "Present",
-      "summary": "Assisting students with enrollment needs and processing necessary documents",
+      "summary": "Assisting students with enrollment needs and processing necessary documents.",
       "highlights": [
-        "Answer incoming calls and advise students on correct course of action"
+        "Provided guidance and assistance to students with enrollment inquiries and document processing",
+        "Answered incoming calls promptly and provided accurate information to students and visitors"
+      ]
+    },
+    {
+      "company": "ALOH Cafe",
+      "position": "Barista, Wine Bartender, Cashier",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-31",
+      "summary": "Worked as a barista, wine bartender, and cashier in Waikiki.",
+      "highlights": [
+        "Provided exceptional customer service to patrons in a fast-paced environment",
+        "Prepared and served coffee beverages, wine, and other menu items with precision and efficiency"
+      ]
+    },
+    {
+      "company": "Yomie’s Rice X Yogurt",
+      "position": "Cashier/Shift Lead",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-31",
+      "summary": "Worked as a cashier and shift lead at Ala Moana Mall.",
+      "highlights": [
+        "Managed cashier duties efficiently, ensuring accurate transactions and maintaining a clean work area",
+        "Took on leadership responsibilities as shift lead, coordinating team members and ensuring smooth operations"
+      ]
+    },
+    {
+      "company": "Starbucks",
+      "position": "Barista",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31",
+      "summary": "Worked as a barista in Waikiki, Hawaii.",
+      "highlights": [
+        "Mastered various coffee brewing techniques and consistently delivered high-quality beverages to customers",
+        "Provided excellent customer service, ensuring a positive experience for each guest"
+      ]
+    },
+    {
+      "company": "Starbucks",
+      "position": "Barista",
+      "startDate": "2022-01-01",
+      "endDate": "2023-12-31",
+      "summary": "Worked as a barista in California.",
+      "highlights": [
+        "Maintained cleanliness and organization of store, contributing to a welcoming atmosphere for customers",
+        "Worked efficiently in a team environment to fulfill customer orders quickly and accurately"
+      ]
+    },
+    {
+      "company": "Ulta Beauty",
+      "position": "Cashier and Beauty Specialist",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Worked as a cashier and beauty specialist.",
+      "highlights": [
+        "Assisted customers with product selection and provided beauty advice and recommendations",
+        "Managed cashier duties including processing transactions and handling cash accurately"
       ]
     },
     {
@@ -60,12 +137,13 @@
       "website": "https://www.trngcmd.marines.mil/Units/Southwest/Marine-Corps-Detachment-Fort-Leonard-Wood/EEIC/",
       "startDate": "2016-10-24",
       "endDate": "2022-06-01",
-      "summary": "Poviding heavy equipment support and maintiaing readiness standards",
+      "summary": "Provided heavy equipment support and maintained readiness standards.",
       "highlights": [
-        "Assistant Trainging Non-commisioned Officer, 2017-2019",
-        "Training Non-commisioned Officer (Rota,Spain) 2020",
-        "Licensing Non-commisioned Officer 2020-2021",
-        "Assistant Operations Chief, 2021-2022",
+        "Demonstrated leadership as Assistant Training Non-commissioned Officer, ensuring effective training for personnel",
+        "Managed equipment maintenance schedules, ensuring operational readiness at all times",
+        "Provided training and support as Non-commissioned Officer in Rota, Spain, contributing to unit readiness",
+        "Served as Licensing Non-commissioned Officer, ensuring personnel met necessary qualifications",
+        "Fulfilled duties as Assistant Operations Chief, overseeing daily operations and supporting unit objectives"
       ]
     }
   ],
