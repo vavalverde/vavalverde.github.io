@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/BAMenu1.png
+image: img/home.png
 title: "Manoa Fit Connect- a Workout App"
 date: 2024
 published: true
