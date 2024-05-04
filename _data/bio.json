@@ -6,7 +6,7 @@
     "email": "vavalver@hawaii.edu",
     "phone": "",
     "website": "https://vavalver.github.io",
-    "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii at Manoa. I expect to graduate in Spring, 2025. After college I intend to pursue a career in cybersecurity.",
+    "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii at Manoa. I expect to graduate in Fall, 2024. After college I intend to pursue a career in cybersecurity.",
     "location": { "address": "", "postalCode": "96815", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "vavalver", "url": "http://github.com/vavalverde" },
@@ -30,13 +30,13 @@
       "keywords": [ "MacOS", "Git/GitHub", "Microsoft Windows" ]
     }
   ],
-"education": [
+  "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Fall, 2025)",
       "studyType": "B.S.",
       "startDate": "2022-09-01",
-      "endDate": "Present",
+      "endDate": "Expected Fall 2024",
       "courses": [
         "311 Algorithms (in progress)",
         "314 Software Engineering I (in progress)",
