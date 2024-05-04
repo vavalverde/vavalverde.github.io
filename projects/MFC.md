@@ -18,6 +18,7 @@ summary: "My team developed a mock app for our University gym."
 </div>
 
 <a href="https://manoafitconnect.com">Visit Manoa Fit Connect</a>
+<a href="https://manoa-fit-connect.github.io">Source Code</a>
 
 ### Project Overview
 The primary goal was to design an application that provided students information on gym equipment, workouts, and to connect them with other students with similar interests. We wanted to take away the worries that may come along with getting into fitness. Students can choose to use our app as their new workout buddy or we help to connect them with workout buddies.
