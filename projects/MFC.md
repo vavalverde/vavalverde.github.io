@@ -23,19 +23,19 @@ summary: "My team developed a mock app for our University gym."
 The primary goal was to design an application that provided students information on gym equipment, workouts, and to connect them with other students with similar interests. We wanted to take away the worries that may come along with getting into fitness. Students can choose to use our app as their new workout buddy or we help to connect them with workout buddies.
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/listequipment.png" class="img-fluid">
+  <img width="500px" src="../img/listequipment.png" class="img-fluid">
 </div>
 <div class="text-center p-4">
-  <img width="300px" src="../img/equip.png" class="img-fluid" >
+  <img width="500px" src="../img/equip.png" class="img-fluid" >
 </div>
 
 ### Development Process
 In this project, my main role encompassed the equipment page and workout page. These required accumalating a large database for users to filter through. My goal was to keep these pages simple and easily accessable for our users. I also helped to develop the css style for our overall website including the heart generator at our signout page. This project was developed using Github branches with each member taking ownership of issues to commit to a main branch. We developed this applicatiion in three stages each improving the functionality of our application.
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/listworkout.png" class="img-fluid" >
+  <img width="500px" src="../img/listworkout.png" class="img-fluid" >
   <div class="text-center p-4">
-  <img width="300px" src="../img/lwcat3.png" class="img-fluid" >
+  <img width="500px" src="../img/lwcat3.png" class="img-fluid" >
 </div>
 </div>
 
