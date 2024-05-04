@@ -40,7 +40,7 @@ I have used AI in class this semester in the following areas:
 
   4. Essays:
      
-     On my list things I want to do I would say writing an essay is at the bottom of the list. I spend all day at work replying to emails in precise and condenced information. So to switch to a lighthearted but still professional format is quite dreadful. Luckily ChatGPT always has a couple ideas up its sleeve. I also rely on it to come up with headers because my mind is just not creative enough after a long day. I will say that this entire essay I have made it a point to not use AI for a single thing!
+     On my list things I want to do I would say writing an essay is at the bottom of the list. I spend all day at work replying to emails in precise and condenced information. So to switch to a lighthearted but still professional format is quite dreadful. Luckily ChatGPT always has a couple ideas for example it recommends to write about cooking in reference to design patterns. I also rely on it to come up with headers because my mind is just not creative enough after a long day. I will say that this entire essay I have made it a point to not use AI for a single thing!
 
   5. Final Project:
      
@@ -97,19 +97,17 @@ Thus, while AI tools like ChatGPT can augment learning by providing quick access
 
 AI tools can serve as a valuable resource for students in various scenarios, including:
 
-Problem-solving: Students can use AI to debug code, generate solutions, or clarify concepts.
+Problem-solving: Students can use AI to debug code.
 
-Assistance in documentation: ChatGPT can aid in code commenting and documentation, improving code readability and maintainability.
+Assistance in documentation: ChatGPT can aid in code commenting and documentation.
 
-Idea generation: It can assist in brainstorming for project ideas, writing essays, or creating headers.
+Idea generation: It can assist in brainstorming for project ideas.
 
 Quality assurance: While not a primary tool, ChatGPT can supplement code review processes by providing alternative perspectives and identifying potential issues.
 
-By leveraging AI in these ways students can streamline their workflow as I have done with documentation.
-
 ### V. Challenges and Opportunities:
 
-The use of AI in software engineering education poses several challenges that need to be addressed. Firstly, there is a risk of dependency, where students may become overly reliant on AI tools, which could hinder the development of critical thinking skills and problem-solving abilities. Moreover, ensuring the accuracy of AI-generated content is crucial, as it may contain errors or provide incomplete information, requiring careful validation by students and educators. Ethical considerations also come into play, as students must navigate issues such as plagiarism and bias when using AI tools. These challenges highlight the need for thoughtful integration and guidance in the use of AI in education to mitigate potential negative impacts on learning outcomes.
+The use of AI in software engineering education poses several challenges that need to be addressed. Firstly, there is a risk of dependency, where students may become overly reliant on AI tools, which could hinder the development of critical thinking skills. Moreover, ensuring the accuracy of AI-generated content is crucial, as it may contain errors or provide incomplete information, requiring careful validation by students and educators. In order for students to identify these errors they need to understand the function of the code that AI is generating. Ethical considerations also come into play, as students must navigate issues such as plagiarism and bias when using AI tools. These challenges require thoughtful integration and guidance in the use of AI in education to mitigate potential negative impacts on learning outcomes.
 
 Despite the challenges, the integration of AI in software engineering education also presents several opportunities. AI tools can provide personalized learning experiences tailored to individual student needs and preferences, enhancing the overall learning process. Additionally, AI can streamline tasks such as documentation and code generation, allowing students to focus more on higher-level concepts and problem-solving. Collaboration among students can also be facilitated through AI tools, providing a common platform for sharing knowledge and seeking assistance. By harnessing these opportunities, educators can create engaging and effective learning environments that prepare students for success in the field of software engineering.
 
