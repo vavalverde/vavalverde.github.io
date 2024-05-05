@@ -96,15 +96,15 @@
         "Took on leadership responsibilities as shift lead, coordinating team members and ensuring smooth operations"
       ]
     },
-    {
-      "company": "Starbucks",
-      "position": "Barista",
-      "startDate": "2021-01-01",
-      "endDate": "2021-12-31",
-      "summary": "Worked as a barista in Waikiki, Hawaii.",
+      "company": "LBD Bar and Grill",
+      "position": "Hostess",
+      "startDate": "2022-10-24",
+      "endDate": "2023-06-01",
+      "summary": "Provided a welcoming enviornment for reservations and new guests",
       "highlights": [
-        "Mastered various coffee brewing techniques and consistently delivered high-quality beverages to customers",
-        "Provided excellent customer service, ensuring a positive experience for each guest"
+        "Demonstrated leadership as Assistant Training Non-commissioned Officer, ensuring effective training for personnel",
+        "Managed reservations through online system",
+        "Provided training and support to onboarding hostesses"
       ]
     },
     {
@@ -112,12 +112,13 @@
       "position": "Barista",
       "startDate": "2022-01-01",
       "endDate": "2023-12-31",
-      "summary": "Worked as a barista in California.",
+      "summary": "Worked as a barista in Waikiki, Hawaii.",
       "highlights": [
-        "Maintained cleanliness and organization of store, contributing to a welcoming atmosphere for customers",
-        "Worked efficiently in a team environment to fulfill customer orders quickly and accurately"
+        "Mastered various coffee brewing techniques and consistently delivered high-quality beverages to customers",
+        "Provided excellent customer service, ensuring a positive experience for each guest"
       ]
     },
+    
     {
       "company": "Ulta Beauty",
       "position": "Cashier and Beauty Specialist",
@@ -130,7 +131,18 @@
       ]
     },
     {
-      "company": "United State Marine Corps",
+      "company": "Starbucks",
+      "position": "Barista",
+      "startDate": "2021-01-01",
+      "endDate": "2022-12-31",
+      "summary": "Worked as a barista in California.",
+      "highlights": [
+        "Maintained cleanliness and organization of store, contributing to a welcoming atmosphere for customers",
+        "Worked efficiently in a team environment to fulfill customer orders quickly and accurately"
+      ]
+    },
+    {
+      "company": "United States Marine Corps",
       "position": "Heavy Equipment Operator",
       "website": "https://www.trngcmd.marines.mil/Units/Southwest/Marine-Corps-Detachment-Fort-Leonard-Wood/EEIC/",
       "startDate": "2016-10-24",
