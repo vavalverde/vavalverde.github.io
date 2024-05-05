@@ -14,7 +14,7 @@ summary: "My team developed a mock app for our University gym."
 ---
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/home.png" class="img-thumbnail" >
+  <img width="200px" src="../img/home.png" class="img-thumbnail" >
 </div>
 
 <a href="https://manoafitconnect.com">Visit Manoa Fit Connect</a>
