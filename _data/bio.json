@@ -78,7 +78,6 @@
       "company": "ALOH Cafe",
       "position": "Barista, Wine Bartender, Cashier",
       "startDate": "2023-01-01",
-      "endDate": "2023-12-31",
       "summary": "Worked as a barista, wine bartender, and cashier in Waikiki.",
       "highlights": [
         "Provided exceptional customer service to patrons in a fast-paced environment",
@@ -89,11 +88,20 @@
       "company": "Yomie’s Rice X Yogurt",
       "position": "Cashier/Shift Lead",
       "startDate": "2023-01-01",
-      "endDate": "2023-12-31",
       "summary": "Worked as a cashier and shift lead at Ala Moana Mall.",
       "highlights": [
         "Managed cashier duties efficiently, ensuring accurate transactions and maintaining a clean work area",
         "Took on leadership responsibilities as shift lead, coordinating team members and ensuring smooth operations"
+      ]
+    },
+    {
+      "company": "Starbucks",
+      "position": "Barista",
+      "startDate": "2023-01-01",
+      "summary": "Worked as a barista in Waikiki, Hawaii.",
+      "highlights": [
+        "Mastered various coffee brewing techniques and consistently delivered high-quality beverages to customers",
+        "Provided excellent customer service, ensuring a positive experience for each guest"
       ]
     },
     {
@@ -107,19 +115,7 @@
         "Managed reservations through online system",
         "Provided training and support to onboarding hostesses"
       ]
-    },
-    {
-      "company": "Starbucks",
-      "position": "Barista",
-      "startDate": "2022-01-01",
-      "endDate": "2023-12-31",
-      "summary": "Worked as a barista in Waikiki, Hawaii.",
-      "highlights": [
-        "Mastered various coffee brewing techniques and consistently delivered high-quality beverages to customers",
-        "Provided excellent customer service, ensuring a positive experience for each guest"
-      ]
-    },
-    
+    }, 
     {
       "company": "Ulta Beauty",
       "position": "Cashier and Beauty Specialist",
