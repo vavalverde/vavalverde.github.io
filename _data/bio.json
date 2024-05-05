@@ -96,6 +96,7 @@
         "Took on leadership responsibilities as shift lead, coordinating team members and ensuring smooth operations"
       ]
     },
+    {
       "company": "LBD Bar and Grill",
       "position": "Hostess",
       "startDate": "2022-10-24",
@@ -106,7 +107,7 @@
         "Managed reservations through online system",
         "Provided training and support to onboarding hostesses"
       ]
-    },
+    }
     {
       "company": "Starbucks",
       "position": "Barista",
