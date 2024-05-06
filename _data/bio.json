@@ -6,11 +6,11 @@
     "email": "vavalver@hawaii.edu",
     "phone": "",
     "website": "https://vavalverde.github.io",
-    "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii at Manoa. I expect to graduate in Fall, 2024. After college I intend to pursue a career in cybersecurity.",
+    "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii at Manoa. I expect to graduate in Fall, 2024. After college, I intend to pursue a career in cybersecurity.",
     "location": { "address": "", "postalCode": "96815", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "vavalver", "url": "https://github.com/vavalverde" },
-      { "network": "linkedin", "username": "vavalver", "url": "https://www.linkedin.com/in/victoriavalverde" },
+      { "network": "linkedin", "username": "vavalver", "url": "https://www.linkedin.com/in/victoriavalverde" }
     ]
   },
   "interests": [
@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "Java", "Javascript", "HTML" ]
+      "keywords": [ "Python", "Java", "JavaScript", "HTML" ]
     },
     {
       "name": "Toolsets/OS",
@@ -105,11 +105,11 @@
       ]
     },
     {
-      "company": "LBD Bar and Grill",
+      "company": "LBD Bar & Grill",
       "position": "Hostess",
       "startDate": "2022-10-24",
       "endDate": "2023-06-01",
-      "summary": "Provided a welcoming enviornment for reservations and new guests",
+      "summary": "Provided a welcoming environment for reservations and new guests",
       "highlights": [
         "Demonstrated leadership as Assistant Training Non-commissioned Officer, ensuring effective training for personnel",
         "Managed reservations through online system",
@@ -150,7 +150,9 @@
         "Managed equipment maintenance schedules, ensuring operational readiness at all times",
         "Provided training and support as Non-commissioned Officer in Rota, Spain, contributing to unit readiness",
         "Served as Licensing Non-commissioned Officer, ensuring personnel met necessary qualifications",
-        "Fulfilled duties as Assistant Operations Chief, overseeing daily operations and supporting unit objectives"
+        "
+
+Fulfilled duties as Assistant Operations Chief, overseeing daily operations and supporting unit objectives"
       ]
     }
   ],
@@ -178,14 +180,14 @@
       "position": "Security",
       "startDate": "2017",
       "endDate": "",
-      "summary": "Provide facilities with security, bag checking, and assisting guest"
+      "summary": "Provide facilities with security, bag checking, and assisting guests"
     }
   ],
   "awards": [
     {
       "title": "Certificate of Commendation",
       "date": "2020",
-      "awarder": "Lieutenant Colonel K.K. Rossman, U.S. Marine Corps Commanding ",
+      "awarder": "Lieutenant Colonel K.K. Rossman, U.S. Marine Corps Commanding",
       "summary": "For exceptional performance of duties while serving as an engineer equipment operator at Marine Wing Support Squadron 274."
     },
     {
@@ -196,8 +198,6 @@
     }
   ],
   "references": [
-    {
-      "name": "Available upon request"
-    }
+    { "name": "Available upon request" }
   ]
 }
