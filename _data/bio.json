@@ -49,7 +49,7 @@
       "area": "Computer Science",
       "studyType": "Coursework",
       "startDate": "2022-01-01",
-      "endDate": "2022-08-31",
+      "endDate": "",
       "courses": []
     },
     {
@@ -57,7 +57,7 @@
       "area": "Computer Science",
       "studyType": "Coursework",
       "startDate": "2021-01-01",
-      "endDate": "2021-12-31",
+      "endDate": "",
       "courses": []
     }
   ],
@@ -159,7 +159,7 @@
       "organization": "Oahu Pacific and Asia Cultural Fest 2023",
       "position": "Volunteer",
       "startDate": "2023",
-      "endDate": "2023",
+      "endDate": "",
       "summary": "Directed guests through lines and answered questions, ensuring a smooth and enjoyable experience for attendees."
     },
     {
