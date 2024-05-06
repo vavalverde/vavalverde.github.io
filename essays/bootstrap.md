@@ -4,7 +4,7 @@ type: essay
 title: "It's Easier to Use Blueprints"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
-published: true
+published: false
 labels:
   - User Interfaces
   - Bootstrap 5
