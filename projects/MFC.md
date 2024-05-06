@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/home.png
-title: "Manoa Fit Connect- a Workout App"
+title: "Manoa Fit Connect- A Workout App"
 date: 2024
 published: true
 labels:
