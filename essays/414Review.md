@@ -11,7 +11,7 @@ labels:
   - Projections
 ---
 <div class="text-center p-4">
-  <img width="300px" src="../img/project.png" class="img-thumbnail" >
+  <img width="300px" src="../img/Image.png" class="img-thumbnail" >
 </div>
 
 
