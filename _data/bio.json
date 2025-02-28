@@ -3,11 +3,11 @@
     "name": "Victoria Valverde",
     "label": "Student",
     "picture": "https://github.com/vavalverde.png",
-    "email": "vavalver@hawaii.edu",
+    "email": "",
     "phone": "",
     "website": "https://vavalverde.github.io",
-    "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii at Manoa. I expect to graduate in Fall, 2024. After college, I intend to pursue a career in cybersecurity.",
-    "location": { "address": "", "postalCode": "96815", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "Computer Science graduate with hands-on experience in cybersecurity, risk analysis, and IT systems. My background includes software engineering, application security, and technical troubleshooting, complemented by leadership and problem-solving skills developed during my time in the U.S. Marine Corps. I am passionate about cybersecurity risk management, compliance, and securing digital environments. Currently pursuing CompTIA Security+ to deepen my knowledge in security frameworks. Seeking opportunities in cybersecurity, risk, and compliance to apply my skills in protecting organizations from emerging threats.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "vavalver", "url": "https://github.com/vavalverde" },
       { "network": "linkedin", "username": "vavalver", "url": "https://www.linkedin.com/in/victoriavalverde" }
@@ -18,16 +18,24 @@
     { "name": "Cybersecurity" },
     { "name": "Data Systems" },
     { "name": "Encryption" },
-    { "name": "Artificial Intelligence" }
+    { "name": "Risk and Compliance" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "Python", "Java", "JavaScript", "HTML" ]
+      "name": "Programming Languages",
+      "keywords": ["JavaScript", "Python", "Java", "HTML"]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "Microsoft Windows" ]
+      "name": "Databases & Tools",
+      "keywords": ["MySQL", "Docker", "GitHub", "Wireshark"]
+    },
+    {
+      "name": "Operating Systems",
+      "keywords": ["Windows", "macOS", "Linux (Ubuntu/Kali)"]
+    },
+    {
+      "name": "Enterprise Systems",
+      "keywords": ["Banner", "Salesforce", "OnBase", "VMware"]
     }
   ],
   "education": [
@@ -36,13 +44,8 @@
       "area": "Computer Science (expected Fall, 2024)",
       "studyType": "B.S.",
       "startDate": "2022-09-01",
-      "endDate": "2024-12-01",
-      "courses": [
-        "311 Algorithms (in progress)",
-        "314 Software Engineering I (in progress)",
-        "321 Database Systems I (in progress)",
-        "355 Security and Trust I (in progress)"
-      ]
+      "endDate": "2024-12-20",
+      "gpa": "3.51"
     },
     {
       "institution": "Cerritos College, Whittier, CA",
@@ -50,7 +53,7 @@
       "studyType": "Coursework",
       "startDate": "2022-01-01",
       "endDate": "",
-      "courses": []
+      "note": "Completed while on active duty in the U.S. Marine Corps."
     },
     {
       "institution": "Coastal Carolina Community College, Jacksonville, NC",
@@ -58,20 +61,35 @@
       "studyType": "Coursework",
       "startDate": "2021-01-01",
       "endDate": "",
-      "courses": []
+      "note": "Completed while on active duty in the U.S. Marine Corps."
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Admissions Office",
+      "company": "TeleSecurity Sciences",
+      "position": "Software Engineer Intern",
+      "location": "Honolulu, HI",
+      "startDate": "2024-08-01",
+      "endDate": "2024-12-01",
+      "summary": "Packaged and optimized MSIX applications, ensuring security compliance and rapid deployment to Microsoft Store.",
+      "highlights": [
+        "Optimized 15+ MSIX applications, achieving 24-hour Microsoft Store approval turnaround",
+        "Configured and tested Windows software deployments, troubleshooting dependency issues",
+        "Led weekly meetings, documented workflows, and created 5+ technical demo videos to streamline cybersecurity awareness"
+      ]
+    },
+    {
+      "company": "University of Hawai'i at Manoa- Admissions Office",
       "position": "Welcome Center Assistant",
       "website": "https://manoa.hawaii.edu/admissions/visit/",
       "startDate": "2024-01-11",
       "endDate": "Present",
       "summary": "Assisting students with enrollment needs and processing necessary documents.",
       "highlights": [
-        "Provided guidance and assistance to students with enrollment inquiries and document processing",
-        "Answered incoming calls promptly and provided accurate information to students and visitors"
+        "Co-authored a 30+ page training manual for onboarding new employees",
+        "Managed and secured 50+ sensitive records daily, ensuring 100% compliance",
+        "Assisted 40+ students and parents daily with enrollment, policies, and campus resources"
+      ]
       ]
     },
     {
